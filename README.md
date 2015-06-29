@@ -1,2 +1,2 @@
-# edithproject
-Legend of Edith
+# The Legend of Edith
+This is Edith!
